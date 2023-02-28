@@ -105,7 +105,7 @@
 - domain: fr1234.neocities.org
   url: https://fr1234.neocities.org/
   method: mediaquery
-  last_checked:
+  last_checked: 2023-02-28
 - domain: garrit.xyz
   url: https://garrit.xyz/
   method: mediaquery
